@@ -36,6 +36,15 @@ sequenceDiagram
 :::
 -->
 
+# Quick start
+
+1. Clone or download this repo: `git@github.com:DevMatch/DevMatch-SDK.git`
+2. Open `validator\src\validator.ts`
+3. Install dependencies `npm i`
+4. Install dependencies `npm run publish`
+5. Create a new problem in DevMatch and insert into the code section
+
+
 # Creating a challenge
 
 
