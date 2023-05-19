@@ -32,7 +32,7 @@ npm install
 
 Open `validator\src\validator.ts` and change the `getProblemStatement` function to be something different.
 
-After you are done, run the publishing process with 
+After you are done, you need to run the publishing process with this command. This command will transpile the typescript into javascript, and pack the contents of your problem into something that DevMatch can take. Every update you make to the source code requires you to re-publish.
 ```
 npm run publish
 ```
@@ -40,7 +40,7 @@ Go to the [explore](https://app.devmatch.io/explore) section of DevMatch and cli
 
 <img src="https://github.com/DevMatch/devmatch.github.io/assets/527987/59242126-4c98-4aa4-bd72-3fb5a34ef655" width="400">
 
-The output of your publishing stepp will be inside the dist folder, and it will be called `dist\main-bundle.js`. Take this entire file and past its contents in the code section of the problem you created.
+The output of your publishing step will be inside the dist folder, and it will be called `dist\main-bundle.js`. Take this entire file and past its contents in the code section of the problem you created.
 
 <img src="https://github.com/DevMatch/devmatch.github.io/assets/527987/91c17943-bb0c-43bf-a28f-9330bacdf2c2" width="400">
 
