@@ -8,6 +8,8 @@ categories: docs
 # Extropolis AI: Case Study
 ## How DevMatch Assisted Extropolis in Improving their Hiring Process Finding Machine Learning Operations Engineer for Extropolis 
 
+<img align="right" src="/images/extropolis-case-study/extropolis-intro-image.png">
+
 ### Introduction
 Extropolis is a local tech startup that specializes in the development of generative-AI mobile apps for image generation and voice assistants. With a keen understanding of the challenges involved in productionizing machine learning, Extropolis navigates the complex machine learning lifecycle, including data ingest, preparation, training, tuning, deployment, monitoring, and explainability. Collaboration and seamless hand-offs between teams are vital, from Data Engineering to Data Science to ML Engineering.   
 
@@ -17,7 +19,7 @@ The candidate should have practical experience scaling RESTful applications and 
 
 Extropolis values trustworthiness in handling sensitive data and maintaining data integrity. By joining the Extropolis team, the candidate can contribute to cutting-edge generative AI technology while working alongside a dedicated and passionate team. 
 
-![An AI generated image from Extropolis](/images/extropolis-case-study/extropolis-intro-image.png)
+
 
 ### Setting up a hiring process
 #### Challenge: Identifying the Right Skills and Matching Candidates 
@@ -41,8 +43,8 @@ https://www.loom.com/share/3f4877da640143f497768e0998eeaa94
 We attended career fairs, and supported Extropolis with an ATS in which candidates could apply. We also published the job description in other relevant job boards both relevant to MLOps and startups. Since this was for a junior engineer, we also did it on job boards popular amongst students.
 
 ![Group of students talking to a recruiter](/images/extropolis-case-study/career-fair1.png)
+
 ![Overview of crowd at the career fair](/images/extropolis-case-study/career-fair2.png)
-![Group of students talking to a recruiter](/images/extropolis-case-study/career-fair3.png)
 
 The top 3 schools were University of California, Irvine, San Jose State University and University of Washington.  
 
