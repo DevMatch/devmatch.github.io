@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Coding competition - August"
-date:   2023-08-15 11:37:00 -0800
+date:   2023-08-14 11:37:00 -0800
 categories: coding
 ---
 
