@@ -14,14 +14,14 @@ We changed to an eventing time and had people join us straight from their intern
 
 We started the contest at 6:25, and barely halfway through, two contestants completed the two challenges! We had to add more coding challenges in the middle of the contest. This very competitive situation led us to find a problem with the ranking not reflecting the correct results, and it was also not automatically updated as it should. All fixed now!
 
-![Ranking](2023-08-15-11-39-38.png)
+![Ranking](/images/2023-08-15-11-39-38.png)
 
 Contestants are ranked according to the most problems solved, then by total time descending. The total time is the sum of the time consumed for each problem solved. The time consumed for a solved problem is the time elapsed from when the problem was open to submitting the first accepted run plus 20 penalty minutes for every previously rejected. There is no time consumed for a problem that is not solved.
 
 In the end, contestants shared their solutions with the rest of the group and some of their struggles. This allowed participants to learn from one another by observing how others approach the same problem. We are happy that these competitions offer a platform for developers to solve real-world coding problems, test their skills, and compete with others. 
 
-![](2023-08-15-11-43-34.png)
-![](2023-08-15-11-45-25.png)
+![](/images/2023-08-15-11-43-34.png)
+![](/images/2023-08-15-11-45-25.png)
 
 See you on the next one!
 
