@@ -130,3 +130,37 @@ DevMatch can use traditional CI/CD builds to run validators. DevMatch will need 
 * Continuously query the state of a given build by ID.
 * Fetch artifacts from a finished build.
 
+# Latest
+
+Clone the DevMatch SDK:
+```bash
+git clone https://github.com/DevMatch/DevMatch-SDK.git
+```
+
+Install the dependencies:
+```bash
+cd DevMatch-SDK\validator && npm i
+```
+
+Create a new repository somehwere, I am going to use the DevMatch internal repo:
+![](2023-07-05-19-03-34.png)
+
+I called this repo `nodejs-hello-world`.
+
+We can modify the readme to add some initial instructions. 
+
+We need to create a validator, or just an integration test that will validate our CLI tool.
+
+In this case, I will use `jest`. I created a `.devmatch` folder where I will keep the test cases "secret".
+
+I installed jest:
+
+```
+npm install --save-dev jest
+```
+
+
+
+# Resources
+
+https://github.com/alexgurr/node-coding-challenges
